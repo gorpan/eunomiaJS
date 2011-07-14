@@ -198,5 +198,4 @@ var EUNOMIA_ui = function(){
     });
   });
   /** END CONTEXTMENU **/
-
 }
